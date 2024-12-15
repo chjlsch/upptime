@@ -4,19 +4,19 @@
     "url": "https://static.chjlsch.ch",
     "icon": "https://icons.duckduckgo.com/ip3/static.chjlsch.ch.ico",
     "slug": "static",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2091,
-    "timeDay": 2511,
-    "timeWeek": 2091,
-    "timeMonth": 2091,
-    "timeYear": 2091,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 3165,
+    "timeDay": 4450,
+    "timeWeek": 3165,
+    "timeMonth": 3165,
+    "timeYear": 3165,
     "dailyMinutesDown": {
-      "2024-12-15": 0
+      "2024-12-15": 13
     }
   }
 ]
